@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 Feel free to reach out if you're interested in collaborating or just want to chat about software engineering, AI, or anything tech-related! 😊
 
 
-##🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdlkbir.elbahmadi.3?locale=fr_FR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdlkbir14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbahmadi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdlkbir5840) 
 
 #💻 Tech Stack:
