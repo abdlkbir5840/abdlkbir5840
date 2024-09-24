@@ -13,8 +13,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#💫 About Me:
-👋 Hi there! I'm a software engineer with a passion for building scalable and intelligent systems.<br><br>#Currently working on:<br>- AI-driven Natural Language Processing projects<br>- Full-stack development with the MERN stack<br>- Backend services with Java Spring Boot<br><br>#Looking to collaborate on:<br>- Innovative AI and NLP projects<br>- Open-source MERN stack applications<br>- Spring Boot microservices<br><br>#Looking for help with:<br>- Advanced AI/NLP techniques and applications<br>- Expanding my knowledge in cloud infrastructure<br><br>#Currently learning:<br>- Cutting-edge AI technologies<br>- Advanced microservices architectures with Spring Boot<br><br>#Ask me about:<br>- Java Spring Boot development<br>- Full-stack JavaScript (MERN stack)<br>- AI and Natural Language Processing<br><br>#Fun fact:<br>- I hold a master's in Business Intelligence and a bachelor's in Software Engineering!<br><br>Feel free to reach out if you're interested in collaborating or just want to chat about software engineering, AI, or anything tech-related! 😊
+# 💫 About Me:
+👋 Hi there! I'm a software engineer with a passion for building scalable and intelligent systems.
+<br><br>
+# Currently working on:<br>- AI-driven Natural Language Processing projects
+<br>
+- Full-stack development with the MERN stack
+<br>
+- Backend services with Java Spring Boot<br><br>#Looking to collaborate on:
+<br>
+- Innovative AI and NLP projects
+<br>
+- Open-source MERN stack applications
+<br>
+- Spring Boot microservices
+<br><br>
+# Looking for help with:
+<br>
+- Advanced AI/NLP techniques and applications
+<br>
+- Expanding my knowledge in cloud infrastructure
+<br><br>
+# Currently learning:
+<br>
+- Cutting-edge AI technologies
+<br>
+- Advanced microservices architectures with Spring Boot
+<br><br>
+# Ask me about:
+<br>
+- Java Spring Boot development
+<br>
+- Full-stack JavaScript (MERN stack)
+<br>
+- AI and Natural Language Processing
+<br><br>
+# Fun fact:
+<br>
+- I hold a master's in Business Intelligence and a bachelor's in Software Engineering!
+<br><br>
+Feel free to reach out if you're interested in collaborating or just want to chat about software engineering, AI, or anything tech-related! 😊
 
 
 ##🌐 Socials:
