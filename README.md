@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi there! I'm a software engineer with a passion for building scalable and intelligent systems.
 <br><br>
-# Currently working on:<br>- AI-driven Natural Language Processing projects
+## Currently working on:
+<br>
+- AI-driven Natural Language Processing projects
 <br>
 - Full-stack development with the MERN stack
 <br>
